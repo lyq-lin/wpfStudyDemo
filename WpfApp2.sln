@@ -3,19 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33424.131
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfApp2", "WpfApp2\WpfApp2.csproj", "{30E19C45-A7F1-4C4B-8C33-51A6DD5CBDB2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TextBoxTipDemo", "WpfApp2\TextBoxTipDemo.csproj", "{30E19C45-A7F1-4C4B-8C33-51A6DD5CBDB2}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfApp1", "WpfApp1\WpfApp1.csproj", "{A005E784-3771-45A2-955D-34E9AE3566A8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaskListDemo", "WpfApp1\TaskListDemo.csproj", "{A005E784-3771-45A2-955D-34E9AE3566A8}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfApp3", "WpfApp3\WpfApp3.csproj", "{FB9DB3E9-35BC-4620-BD50-53605E39B40E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TreeDemo", "WpfApp3\TreeDemo.csproj", "{FB9DB3E9-35BC-4620-BD50-53605E39B40E}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfApp4", "WpfApp4\WpfApp4.csproj", "{9F9AFDBB-B8D0-4AD9-82D1-1E78849953DA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TemplateSelectorDemo", "WpfApp4\TemplateSelectorDemo.csproj", "{9F9AFDBB-B8D0-4AD9-82D1-1E78849953DA}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfControlLibrary1", "WpfControlLibrary1\WpfControlLibrary1.csproj", "{CCB032CE-A99B-4FF0-83EC-F39E09145C8A}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfApp5", "WpfApp5\WpfApp5.csproj", "{E1BD7F8B-F7D1-471E-984C-D9DC1A2065AE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NotifyPropertyChangedDemo", "WpfApp5\NotifyPropertyChangedDemo.csproj", "{E1BD7F8B-F7D1-471E-984C-D9DC1A2065AE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp6", "WpfApp6\WpfApp6.csproj", "{D22B10C5-5E62-4CAF-8A1B-791646FF6536}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListBoxGroupAndFilterDemo", "WpfApp6\ListBoxGroupAndFilterDemo.csproj", "{D22B10C5-5E62-4CAF-8A1B-791646FF6536}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
