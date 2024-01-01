@@ -19,6 +19,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListBoxGroupAndFilterDemo",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidationDemo", "ValidationDemo\ValidationDemo.csproj", "{0BEA2A2F-F69D-4EE2-9C31-F073147FE8F9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdornerDemo", "AdornerDemo\AdornerDemo.csproj", "{3B0A8CF3-5D3E-4AA5-9AC7-DC704B79E8E7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{0BEA2A2F-F69D-4EE2-9C31-F073147FE8F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0BEA2A2F-F69D-4EE2-9C31-F073147FE8F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0BEA2A2F-F69D-4EE2-9C31-F073147FE8F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B0A8CF3-5D3E-4AA5-9AC7-DC704B79E8E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B0A8CF3-5D3E-4AA5-9AC7-DC704B79E8E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B0A8CF3-5D3E-4AA5-9AC7-DC704B79E8E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B0A8CF3-5D3E-4AA5-9AC7-DC704B79E8E7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
