@@ -17,6 +17,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NotifyPropertyChangedDemo",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListBoxGroupAndFilterDemo", "WpfApp6\ListBoxGroupAndFilterDemo.csproj", "{D22B10C5-5E62-4CAF-8A1B-791646FF6536}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidationDemo", "ValidationDemo\ValidationDemo.csproj", "{0BEA2A2F-F69D-4EE2-9C31-F073147FE8F9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{D22B10C5-5E62-4CAF-8A1B-791646FF6536}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D22B10C5-5E62-4CAF-8A1B-791646FF6536}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D22B10C5-5E62-4CAF-8A1B-791646FF6536}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BEA2A2F-F69D-4EE2-9C31-F073147FE8F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BEA2A2F-F69D-4EE2-9C31-F073147FE8F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BEA2A2F-F69D-4EE2-9C31-F073147FE8F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BEA2A2F-F69D-4EE2-9C31-F073147FE8F9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
